@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bogdan Erdelji blog</title>
-    <link>/</link>
-    <description>Recent content on Bogdan Erdelji blog</description>
+    <title>&gt;Posts on Bogdan Erdelji blog</title>
+    <link>/posts/</link>
+    <description>Recent content in &gt;Posts on Bogdan Erdelji blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 May 2018 13:42:49 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2018 12:21:57 -0500</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>&gt;About me</title>
-      <link>/about/</link>
-      <pubDate>Thu, 17 May 2018 13:42:49 -0500</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Hello, I&amp;rsquo;m Bogdan. I&amp;rsquo;m a student of Faculty of organization and informatics (FOI) located in Varaždin, Croatia, and I consider myself to be a cybersecurity enthusiast.
-My interests in informatics began in primary school where we have studied Terrapin logo and Basic programming languages. As such, when I joined high school I began attending informatics competitions. After high school I enrolled at FOI, which I&amp;rsquo;m still attending, and where I have graduated with a bachelors.</description>
-    </item>
     
     <item>
       <title>Polymorphic malware engine in GoLang</title>

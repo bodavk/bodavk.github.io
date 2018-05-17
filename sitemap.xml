@@ -3,16 +3,85 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/about/</loc>
+    <lastmod>2018-05-17T13:42:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2018-02-13T12:21:57-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-05-17T13:42:49-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/code/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/engine/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/golang/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/guide/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/intrusion-detection/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/malware/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/network/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/nids/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/gallery/</loc>
+  </url>
+  
+  <url>
+    <loc>/posts/polymorphic/</loc>
+  </url>
+  
+  <url>
+    <loc>/posts/snort/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/snort/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
